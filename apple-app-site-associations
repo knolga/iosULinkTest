@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "B987U2GNDX.com.cienjcasino.casinoapp.mobilecasino.dev",
+        "paths": [
+          "*",
+          "/"
+        ]
+      }
+    ]
+  }
+}
