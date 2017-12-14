@@ -51,6 +51,9 @@ a:hover{
 	color:#555;
 	cursor:pointer;
 }
+.home{
+	/*background:url(../images/home-bg.png) repeat-x;*/
+}
 .page{
 	background:url(../images/page-bg.png) repeat-x;
 }
