@@ -15,7 +15,7 @@ URL:http://www.chris-creed.com
 }
 body{
 	font-family:arial, sans-serif;
-	background-color: yellow;/*#fff;*/
+	background-color:#fff;
 	color:#555;
 	line-height:24px;
 	font-size:14px;
@@ -50,6 +50,9 @@ a{
 a:hover{
 	color:#555;
 	cursor:pointer;
+}
+.home{
+	background:url(../images/home-bg.png) repeat-x;
 }
 .page{
 	background:url(../images/page-bg.png) repeat-x;
